@@ -87,3 +87,5 @@ de recherche nécessaires sur les données et configure les données pour la des
 
 ==>Votre package est maintenant terminé et prêt à être testé ! 
 ==> Vous devez Exécuter le package de la leçon 1 à traver le Démarrage de débogage.
+![image](https://user-images.githubusercontent.com/73296408/217206834-aed89ca0-e060-4f1e-8e61-19c2ec6a0c96.png)
+![image](https://user-images.githubusercontent.com/73296408/217207016-801b7c3a-ebb1-400f-af95-1bbede153783.png)
